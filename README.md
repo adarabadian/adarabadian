@@ -1,14 +1,14 @@
 👋 Hi, I’m Adar Abadian
 
-🤹‍♀️ My Skills Are:
-&nbsp;&nbsp;&nbsp;&nbsp;⚛  React
-&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻 NodeJS
-&nbsp;&nbsp;&nbsp;&nbsp;🅰 Angular
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 TypeScript
-&nbsp;&nbsp;&nbsp;&nbsp;🕸  Web Components
-&nbsp;&nbsp;&nbsp;&nbsp;🟣 Apex
-&nbsp;&nbsp;&nbsp;&nbsp;☕ Java
-&nbsp;&nbsp;&nbsp;&nbsp;😀 And more..
+🤹‍♀️ My Skills Are:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;⚛  React<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻 NodeJS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🅰 Angular<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 TypeScript<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🕸  Web Components<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🟣 Apex<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;☕ Java<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;😀 And more..<br/>
       
 🤵 My Portfolio:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔗  http://adar-projects-catalog.herokuapp.com/
