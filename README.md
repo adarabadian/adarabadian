@@ -23,9 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌴 Vacations Project - Project From My Development Course - React, Typescript, NodeJs, Socket.IO, MySQL<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗  https://vacations.adarabadian.com<br/>
 
-
 📫 Reach Me:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📞 Phone Number: 052-5109880  (+972)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 Linkedin: https://www.linkedin.com/in/adar-abadian/<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📃 Resume: https://adar-projects-catalog.herokuapp.com/AdarCv.pdf<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📞 Phone Number: (+972) 052-5109880 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 Linkedin: https://www.linkedin.com/in/adar-abadian<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📃 Resume: https://portfolio.adarabadian.com/static/media/AdarCV.f82da3cb44341c943b38.pdf <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 Email Address: AdarAbadian@gmail.com
